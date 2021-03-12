@@ -1,0 +1,30 @@
+{
+    "usageCount": 6, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "Terminal: b", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "b", 
+        "modifiers": [
+            "<super>"
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": "gnome-terminal-server.Gnome-terminal", 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}
