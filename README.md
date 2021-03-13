@@ -111,6 +111,15 @@ Follow the steps in the parent `Keyboard shortcuts` section.
 
 Note that the last `Switch windows of an app directly` will result in an ugly ornage highlight on the window you're switching to. The later `Themes` section will change that to a gray color.
 
+## Menu bar
+
+1. Open the `Gnome Shell integration` extension in Chrome or Firefox.
+2. Install the following extensions
+    - Big Sur Status Area: https://extensions.gnome.org/extension/3708/big-sur-status-area/
+       - I have the date format set to `%a  %b %e  %T`
+    - Unite: https://extensions.gnome.org/extension/1287/unite/
+3. Tweak these to your heart's content.
+
 ## AutoKey shorcuts
 
 Other keyboard shortcuts require the `AutoKey` app to setup. See the `AutoKey setup` section below for those.
