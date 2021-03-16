@@ -115,47 +115,6 @@ Note that the last `Switch windows of an app directly` will result in an ugly or
 
 Other keyboard shortcuts require the `AutoKey` app to setup. See the `AutoKey setup` section below for those.
 
-# Menu bar
-
-1. Open the `Gnome Shell integration` extension in Chrome or Firefox.
-2. Install the following extensions
-    - Big Sur Status Area: https://extensions.gnome.org/extension/3708/big-sur-status-area/
-       - I have the date format set to `%a  %b %e  %T`
-    - Unite: https://extensions.gnome.org/extension/1287/unite/
-3. Tweak these to your heart's content.
-4. 
-# Themes
-
-## Installing themes
-
-1. Create a `.icons` folder in your home directory
-   ```bash
-   mkdir ~/.icons
-   ```
-2. Create a `.themes` fodler in your home directory
-   ```bash
-   mkdir ~/.themes
-   ```
-3. Open the `Gnome Shell integration` extension in Chrome or Firefox.
-4. Search for and install the `User Themes` extension: https://extensions.gnome.org/extension/19/user-themes/. Make sure it's also turned on.
-5. Download some macOS themes. My favorite is currently `Mojave-dark-solid.tar.xz` from here: https://www.pling.com/p/1275087
-6. Place the downloaded `tar.xz` file from step 5 into your `~/.themes` folder. Extract it into there and delete the `.tar.xz` file.
-7. Download the `macOS Big Sur` cursor icon set: https://www.gnome-look.org/s/Gnome/p/1408466/
-8. Extract the folder and place it in `~/.icons`.
-9. Unfortunately my favorite icon set `OS X imperssion` [sic] is no longer available for download. Its successor is `EX-Impression`. It can be downloaded here: https://www.gnome-look.org/p/1012200/. Ultimately though, I'm not happy with any of the current icon sets I've found online, they all require modifying of some sort (particularly the list view folder icon in Nautilus, the default file browser).
-10. Extract whatever icon set you download into `~/.icons`.
-
-## Selecting themes
-
-1. Open the Tweaks app (`gnome-tweak-tool` in a terminal)
-   - If the app was already open relaunch it to load all the new themes added above.
-2. Navigate to `Appearance`.
-3. For the `Applications` setting, select your desired theme (`Mojave-dark-solid` for me).
-4. For the `Shell` setting, select your desired theme (`Mojave-dark-solid` for me).
-5. For the `Cursor` setting, set `macOS Big Sur`.
-6. For the `Icons` setting, set whichever icon set you downloaded (the old `OS X imperssion` [sic] in my case).
-   ![screenshot of my appearance tweaks](./appearance-tweaks.png "These are my appearance tweaks")
-
 ## Titlebar buttons
 
 This moves the close, minimize, and maximize buttons.
@@ -187,6 +146,48 @@ _**NOTE:**_ this setting drives the `Tweaks` window crazy. Either make the windo
 16. Go to the `Behavior` tab.
 17. Uncheck `Use keyboard shortcuts to activate apps`
 18. Change `Click action` to `Raise window`
+
+# Menu bar
+
+1. Open the `Gnome Shell integration` extension in Chrome or Firefox.
+2. Install the following extensions
+    - Unite: https://extensions.gnome.org/extension/1287/unite/  
+    - Big Sur Status Area: https://extensions.gnome.org/extension/3708/big-sur-status-area/
+       - I have the date format set to `%a  %b %e  %T`
+       - Move the calendar position near the bottom
+3. Tweak these to your heart's content.
+
+# Themes
+
+## Installing themes
+
+1. Create a `.icons` folder in your home directory
+   ```bash
+   mkdir ~/.icons
+   ```
+2. Create a `.themes` fodler in your home directory
+   ```bash
+   mkdir ~/.themes
+   ```
+3. Open the `Gnome Shell integration` extension in Chrome or Firefox.
+4. Search for and install the `User Themes` extension: https://extensions.gnome.org/extension/19/user-themes/. Make sure it's also turned on.
+5. Download some macOS themes. My favorite is currently `Mojave-dark-solid.tar.xz` from here: https://www.pling.com/p/1275087
+6. Place the downloaded `tar.xz` file from step 5 into your `~/.themes` folder. Extract it into there and delete the `.tar.xz` file.
+7. Download the `macOS Big Sur` cursor icon set: https://www.gnome-look.org/s/Gnome/p/1408466/
+8. Extract the folder and place it in `~/.icons`.
+9. Unfortunately my favorite icon set `OS X imperssion` [sic] is no longer available for download. Its successor is `EX-Impression`. It can be downloaded here: https://www.gnome-look.org/p/1012200/. Ultimately though, I'm not happy with any of the current icon sets I've found online, they all require modifying of some sort (particularly the list view folder icon in Nautilus, the default file browser).
+10. Extract whatever icon set you download into `~/.icons`.
+
+## Selecting themes
+
+1. Open the Tweaks app (`gnome-tweak-tool` in a terminal)
+   - If the app was already open relaunch it to load all the new themes added above.
+2. Navigate to `Appearance`.
+3. For the `Applications` setting, select your desired theme (`Mojave-dark-solid` for me).
+4. For the `Shell` setting, select your desired theme (`Mojave-dark-solid` for me).
+5. For the `Cursor` setting, set `macOS Big Sur`.
+6. For the `Icons` setting, set whichever icon set you downloaded (the old `OS X imperssion` [sic] in my case).
+   ![screenshot of my appearance tweaks](./appearance-tweaks.png "These are my appearance tweaks")
 
 # AutoKey shortcuts
 
