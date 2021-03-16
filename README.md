@@ -178,6 +178,25 @@ _**NOTE:**_ this setting drives the `Tweaks` window crazy. Either make the windo
 9. Unfortunately my favorite icon set `OS X imperssion` [sic] is no longer available for download. Its successor is `EX-Impression`. It can be downloaded here: https://www.gnome-look.org/p/1012200/. Ultimately though, I'm not happy with any of the current icon sets I've found online, they all require modifying of some sort (particularly the list view folder icon in Nautilus, the default file browser).
 10. Extract whatever icon set you download into `~/.icons`.
 
+### Clean up EX-Impression icons
+
+Some of the icons in this set are unnecessarily weird. Simply the delete the following icons:
+-  `scalabe/apps/chrome.svg`
+-  `scalabe/apps/chrome-ighkikkfkalojiibipjigpccggljgdff-Default.svg`
+-  `scalable/apps/googlechrome.svg`
+-  Search for `google-chrome` and delete all the icons that show up.
+-  Search for `firefox` and delete all the icons that show up.
+-  `scalable/apps/code.svg`
+-  `scalable/apps/code-oss.svg`
+-  `scalable/apps/code-insiders.svg`
+-  `scalable/apps/com.visualstudio.code.svg`
+-  `scalable/apps/com.visualstudio.code.oss.svg`
+-  `scalable/apps/visual-studio-code.svg`
+-  `scalable/apps/visual-studio-code-insiders.svg`
+-  Search for `steam` (if you use Steam) and delete all the icons that show up.
+
+Open Tweaks and reload the icons by selecting a different icon set, then re-selecting the `EX-Impression` icon set.
+
 ## Selecting themes
 
 1. Open the Tweaks app (`gnome-tweak-tool` in a terminal)
