@@ -134,7 +134,7 @@ _**NOTE:**_ this setting drives the `Tweaks` window crazy. Either make the windo
 4. Go to the `Position and size` tab.
 5. Check `Show on all monitors.`.
 6. Enable `Intelligent autohide` and click the gear for more settings.
-7. Check `Enalbe in fullscreen mode`
+7. Check `Enable in fullscreen mode`
 8. Disable `Dodge windows`
 9. Turn `Animation duration (s)` down to `0`.
 10. Turn `Hide timeout (s)` down to `0.1`.
