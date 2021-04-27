@@ -178,6 +178,7 @@ _**NOTE:**_ this setting drives the `Tweaks` window crazy. Either make the windo
 8. Extract the folder and place it in `~/.icons`.
 9. Unfortunately my favorite icon set `OS X imperssion` [sic] is no longer available for download. Its successor is `EX-Impression`. It can be downloaded here: https://www.gnome-look.org/p/1012200/. Ultimately though, I'm not happy with any of the current icon sets I've found online, they all require modifying of some sort (particularly the list view folder icon in Nautilus, the default file browser).
 10. Extract whatever icon set you download into `~/.icons`.
+11. See the `Selecting themes` section below for how to set these themes.
 
 ### Clean up EX-Impression icons
 
@@ -206,7 +207,7 @@ Open Tweaks and reload the icons by selecting a different icon set, then re-sele
 3. For the `Applications` setting, select your desired theme (`Mojave-dark-solid` for me).
 4. For the `Shell` setting, select your desired theme (`Mojave-dark-solid` for me).
 5. For the `Cursor` setting, set `macOS Big Sur`.
-6. For the `Icons` setting, set whichever icon set you downloaded (the old `OS X imperssion` [sic] in my case).
+6. For the `Icons` setting, set `EX-Impression.
    ![screenshot of my appearance tweaks](./appearance-tweaks.png "These are my appearance tweaks")
 
 # AutoKey shortcuts
