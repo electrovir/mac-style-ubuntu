@@ -154,7 +154,8 @@ _**NOTE:**_ this setting drives the `Tweaks` window crazy. Either make the windo
     - Unite: https://extensions.gnome.org/extension/1287/unite/  
     - Big Sur Status Area: https://extensions.gnome.org/extension/3708/big-sur-status-area/
        - I have the date format set to `%a  %b %e  %T`
-       - Move the calendar position near the bottom
+       - Set the calendar position to "left" and move it to near the bottom
+    - Big Sur Menu: https://extensions.gnome.org/extension/3703/big-sur-menu/
 3. Tweak these to your heart's content.
 
 # Themes
