@@ -27,13 +27,14 @@ This is with Gnome on Ubuntu `20.04` with an Apple keyboard.
    ```
 4. Make sure bluetooth is on and pair them.
 
-# Install font
+# Install fonts
 
 1. Download the Roboto font: https://fonts.google.com/specimen/Roboto
 2. Drag the folder to `/usr/share/fonts/truetype`
 3. Open Tweaks
 4. Go to `Fonts`
 5. Set all the fonts except `Monospace Text` to `Roboto Medium`.
+6. Rebuild the font cache with `sudo fc-cache -f -v`.
 
 # Modifier key layout and numpad
 
