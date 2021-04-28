@@ -36,6 +36,8 @@ This is with Gnome on Ubuntu `20.04` with an Apple keyboard.
 5. Set all the fonts except `Monospace Text` to `Roboto Medium`.
 6. Rebuild the font cache with `sudo fc-cache -f -v`.
 
+San Franciso fonts are also available for download in TrueType format [here](https://github.com/blaisck/sfwin) but their licesnses do not allow use for the Linux interface.
+
 # Modifier key layout and numpad
 
 1. Open Tweaks (`gnome-tweak-tool` in a terminal).
