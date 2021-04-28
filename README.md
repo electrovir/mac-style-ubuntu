@@ -196,6 +196,7 @@ Some of the icons in this set are unnecessarily weird. Simply the delete the fol
 -  `scalable/apps/com.visualstudio.code.oss.svg`
 -  `scalable/apps/visual-studio-code.svg`
 -  `scalable/apps/visual-studio-code-insiders.svg`
+-  Search for `minecraft` (if you use Minecraft) and delete the two icons that show up.
 -  Search for `steam` (if you use Steam) and delete all the icons that show up.
 
 Open Tweaks and reload the icons by selecting a different icon set, then re-selecting the `EX-Impression` icon set.
